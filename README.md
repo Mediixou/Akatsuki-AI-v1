@@ -1,6 +1,6 @@
 # Akatsuki-AI-v1
 
-Akatsuki-AI-v1 est un bot alimenté par Node.js avec intégration à WhatsApp via la bibliothèque `whatsapp-web.js`.
+Akatsuki-AI-v1 est un bot alimenté par Node.js avec intégration à Discord.
 
 ## Configuration
 
