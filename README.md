@@ -63,3 +63,5 @@ Akatsuki-AI-v1 est un bot alimenté par Node.js avec intégration à Discord.
   ```bash
   node -v
   ```
+
+- Si **Node.js** n'est pas installé, téléchargez-le depuis [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager).
