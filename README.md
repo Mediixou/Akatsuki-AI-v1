@@ -12,7 +12,24 @@ Akatsuki-AI-v1 est un bot alimenté par Node.js avec intégration à Discord.
 
 ## Installation
 
-1. **Installer les dépendances** :
+1. **Clonez le dépôt GitHub** :
+   -Exécutez la commande sur PowerShell Admin :
+    ```bash
+     git clone https://github.com/Mediixou/Akatsuki-AI-v1.git
+    ```
+
+    **Remarque :**
+   -Si vous n'avez pas installé Git sur votre machine, vous pouvez le télécharger et l'installer.
+   ```bash
+   https://git-scm.com/downloads
+   ```
+    
+3. **Accédez au répertoire du projet :**
+    ```bash
+    cd Akatsuki-AI-v1
+    ```
+
+4. **Installer les dépendances** :
    - Exécutez la commande suivante pour installer les modules Node.js requis :
      ```bash
      npm install
